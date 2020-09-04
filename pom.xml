@@ -27,7 +27,7 @@
    <artifactId>asciidoc-confluence-publisher-maven-plugin</artifactId>              <!-- default seting with maven -->
      <version>0.10.0</version>                                                      <!-- paten dengan versi confluence -->
       <configuration>
-        <asciidocRootFolder>lat</asciidocRootFolder>                 <!-- pilih folder yang ada file-system-name.adoc dan folder-system-name yang akan di publish-->
+        <asciidocRootFolder>doc</asciidocRootFolder>                 <!-- pilih folder yang ada file-system-name.adoc dan folder-system-name yang akan di publish-->
         <sourceEncoding>UTF-8</sourceEncoding>                                      <!-- default -->
         <rootConfluenceUrl>https://alterra.atlassian.net/wiki</rootConfluenceUrl>   <!-- menuju pada database web -->
         <skipSslVerification></skipSslVerification>                                 <!-- dikosongi saja -->
