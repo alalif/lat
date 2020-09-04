@@ -2,4 +2,4 @@
 
 bla bla bla
 
-image::images-marble/energy.png[hla-marble]
+image::image-marble/energy.png[hla-marble]
